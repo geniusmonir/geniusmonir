@@ -4,6 +4,12 @@
   <p>
     <b>TypeScript • React & Next.js • React Native • NestJS • Supabase</b>
   </p>
+  <div align="center">
+    <i>"I make the web, mobile, and desktop work together."</i>
+  </div>
+
+  <br/>
+
   
   <p>
     <a href="https://linkedin.com/in/geniusmonir" target="_blank">
@@ -58,8 +64,3 @@ As an **Upwork Top Rated Plus Freelancer** (Top 3% Globally), I have a proven tr
 * 🚀 **CTO & Founder Experience** – Led engineering at Fully Booked (reducing booking errors by 90%) and founded Webanion.
 
 <br/>
-
-
-<div align="center">
-  <i>"I make the web, mobile, and desktop work together."</i>
-</div>
